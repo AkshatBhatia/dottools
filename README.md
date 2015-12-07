@@ -1,0 +1,1 @@
+This repo contains all the configuration files that I hope to reuse for all my development environment purposes. Currently this only contains that .vimrc file. I expect to add the .bashrc file, my aliases files etc. 
